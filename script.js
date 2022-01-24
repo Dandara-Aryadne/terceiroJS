@@ -22,23 +22,3 @@ while (100 >= number){
     console.log(number)
     number = number +2
 }
-
-//Sem enunciados//
-for (let i = 1 ; i <=  10 ; i ++){
-    console.log (i)
-}
-let cont = 10
-while (1 <= cont){
-    console.log(cont)
-cont -= 1
-}
-let contador = 1
-while (100 >= contador){
-    console.log (contador)
-    contador = contador + 2
-}
-et number = 0
-while (100 >= number){
-    console.log(number)
-    number = number +2
-}
